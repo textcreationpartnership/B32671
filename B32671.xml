@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To God alone let us all glory give, by whose permission we poor mortals live ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32671</idno><idno type="EEBO-CITATION">99887739</idno>
+  <idno type="VID">187716</idno>
+  <idno type="EEBO-PROQUEST">2240886739</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[248]</idno>
+            <idno type="PROQUEST">ocm99887739</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887739e"/>
+            <note>(EEBO-TCP ; phase 2, no. B32671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187716)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[193b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To God alone let us all glory give, by whose permission we poor mortals live ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, and J. Back.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first two lines of text.</note>
+                  <note>Verse: "To God alone let us all glory give ..."</note>
+                  <note>Imperfect: cropped, with loss of title and most of the illustrations.</note>
+                  <note>Printed on verso: The Kentish maiden (Wing K326).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:187716:1"/>
+            <lg>
+               <l>TO God alone let us all Glory give,</l>
+               <l>By whose permission we poor Mortals live,</l>
+               <l>And tho' our Enemies may swell with Pride,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> soon can compass them on ev'ry side.</l>
+            </lg>
+            <lg>
+               <l>King <hi>William</hi> is the Glorious Instrument,</l>
+               <l>Which by the Providence of God was sent,</l>
+               <l>To save our drooping Laws and Liberty,</l>
+               <l>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om <hi>French</hi> and <hi>Popish</hi> cruel Tyranny.</l>
+            </lg>
+            <lg>
+               <l>W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n in dark gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omy Cells the Plots was laid,</l>
+               <l>This Free-born Land and Nation to Invade,</l>
+               <l>Bold <hi>Brittain</hi> Sail'd forth with her Royal Fleet,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ich did the daring Enemy defeat.</l>
+            </lg>
+            <lg>
+               <l>Renowned <hi>RƲSSEL,</hi> let them understand,</l>
+               <l>That for the Honour of his Native Land,</l>
+               <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o' Smoke and Flame, he cou'd with Courage go,</l>
+               <l>To face proud <hi>Lewis</hi> that insulting Foe.</l>
+            </lg>
+            <lg>
+               <l>No <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear or Favour cou'd his Actions sway,</l>
+               <l>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r cou'd he in the least be drawn away</l>
+               <l>From acting like a Noble Hero bold,</l>
+               <l>For all the promis'd Gifts of cursed Gold.</l>
+            </lg>
+            <lg>
+               <l>My, Vali<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt <hi>Ashby,</hi> let them feel his Rage,</l>
+               <l>While De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, he rid in Triumph o'er the Stage</l>
+               <l>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nch</hi> Navy on the Ocean Main,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>English</hi> Boys did Victory obtain.</l>
+            </lg>
+            <lg>
+               <l>The Spirits of the <hi>French</hi> began to faint,</l>
+               <l>So that they pray'd to ev'ry <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pish</hi> Sain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>To help them in a time of sad Distress;</l>
+               <l>Yet th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y were burnt and beaten ne'ertheless.</l>
+            </lg>
+            <lg>
+               <l>Admiral <hi>Carter</hi> Fought them through and through,</l>
+               <l>The like of him before they never knew;</l>
+               <l>His Chain-Shot did their Ships i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pieces <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar,</l>
+               <l>As if great <hi>Jove</hi> with Thunder <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d been there.</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Delavall</hi> met with the <hi>Ri<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>g-Sun</hi>
+               </l>
+               <l>Of <hi>France,</hi> who to the shore for <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>lter run,</l>
+               <l>With many more, which in a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ly Flame</l>
+               <l>He soon did set, our Glory to p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>claim.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Clously Shovel,</hi> with a Valiant heart,</l>
+               <l>In this most Glorious Conquest bore a part;</l>
+               <l>His roaring Cannons sunk them in the Main,</l>
+               <l>From whence they never can r<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rn again.</l>
+            </lg>
+            <lg>
+               <l>The Force of <hi>France</hi> he ne'er was known to sea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>But like a stout Commander, v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to clear</l>
+               <l>The Seas of <hi>French,</hi> or they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hould make his Grave</l>
+               <l>And Monument in a rough <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oaring VV<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e.</l>
+            </lg>
+            <lg>
+               <l>The next was <hi>Rook,</hi> that brave Heroick Soul,</l>
+               <l>VVho none alive cou'd eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet Controul;</l>
+               <l>A Dozen men of VVar of <hi>France</hi> he Burn'd,</l>
+               <l>VVho e'er next day was all to Ashes turn'd.</l>
+            </lg>
+            <lg>
+               <l>The <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ench</hi> was follow'd to their very shore,</l>
+               <l>Pursu'd with Gun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which did like Thunder roar</l>
+               <l>Such Admirals before was never known,</l>
+               <l>They scar'd Old <hi>Lewis,</hi> nay, and shook his Throne.</l>
+            </lg>
+            <lg>
+               <l>Nor were the Valiant <hi>Dutch-men</hi> far behind,</l>
+               <l>They on the Ocean bear a Noble mind;</l>
+               <l>True Sons of Thunder, that will not retreat,</l>
+               <l>Until they see their Foes destroy'd and beat.</l>
+            </lg>
+            <lg>
+               <l>Tho' th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had once been Wounded on the Main,</l>
+               <l>Like Sol<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers, they resolv'd to bleed again,</l>
+               <l>Or bring the proud insulting Tyrant low,</l>
+               <l>Who strives to seek all <hi>Europe's</hi> Overthrow.</l>
+            </lg>
+            <lg>
+               <l>Those Valiant Souls let all good Men commend,</l>
+               <l>Their Lives they ventur'd freely, to defend,</l>
+               <l>Religion, Laws, and likewise Liberty;</l>
+               <l>'Tis better dye, than live in Slavery.</l>
+            </lg>
+            <lg>
+               <l>But God above I hope will ever bless</l>
+               <l>Our Arms by Sea and Land with good Success;</l>
+               <l>That Victories may constantly encrease,</l>
+               <l>Till War is swallow'd in a Glorious Peace.</l>
+            </lg>
+            <lg>
+               <l>Now for King <hi>William</hi> let all Subjects pray,</l>
+               <l>That God would Guard his Person night and day,</l>
+               <l>From all false Friends, and likewise open Foes,</l>
+               <l>Let Angels Guard him wheresoe'er he goes.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>P. Brooksby, J. Deaco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, J. Bla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> and <hi>J. Back<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
